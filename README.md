@@ -95,7 +95,6 @@ Treemap visualizing revenue contribution by category (e.g., Veg, Non-Veg, Specia
 
 Regional & Store Performance
 
-Map Visual plotting store locations with color-coded revenue/profit bubbles.
 
 Matrix/Table view showing each store’s metrics: total orders, average ticket size, total profit.
 
@@ -133,7 +132,6 @@ Line chart showing monthly revenue and profit trends.
 Bar chart highlighting top 10 pizza varieties.
 
 
-Map visual displaying store locations sized by revenue.
 
 🔧 How to Use This Dashboard :
 
